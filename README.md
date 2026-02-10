@@ -1,6 +1,6 @@
 # Install
 
-download `change_detection_contrastive_classifier.pth` from github and move into root direactory of the project
+download [change_detection_contrastive_classifier.pth](https://github.com/cleeuh/dinov3-siamese/releases/download/weights/change_detection_contrastive_classifier.pth) from github and move into root direactory of the project
 
 run `./dl-dino.sh`
 
