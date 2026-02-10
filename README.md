@@ -8,7 +8,6 @@ run `pip3 install -r requirements.txt`
 
 run `python3 gradio-play.sh`
 
-
 # Training
 
 Training may not work since additional files such as datasets are required.  Dataset will be published at a later time
