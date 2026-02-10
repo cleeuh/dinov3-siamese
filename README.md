@@ -17,3 +17,8 @@ run `python3 gradio-play.sh`
 Training may not work since additional files such as datasets are required.  Dataset will be published at a later time
 
 run `python3 train.py`
+
+
+# Acknowledgement
+
+[DinoV3](https://github.com/facebookresearch/dinov3)
